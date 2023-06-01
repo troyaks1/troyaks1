@@ -1,4 +1,9 @@
-<h3> Hi there, my name is Luan. </h3>
+<div align="center">
+  <h1>
+    Hi there, my name is Luan. 
+  </h1>
+</div>
+
 
 ![Luan's github stats](https://github-readme-stats.vercel.app/api?username=troyaks1&show_icons=true&theme=tokyonight)
 
