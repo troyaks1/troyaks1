@@ -78,15 +78,6 @@
 
 </div>
 
-<style>
-  .section {
-    background-color: rgba(255, 255, 255, 0.7);
-    padding: 20px;
-    margin: 10px;
-    border-radius: 5px;
-  }
-</style>
-
 
 <!--
 **troyaks1/troyaks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
