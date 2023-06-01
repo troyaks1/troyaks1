@@ -7,11 +7,32 @@
 
   [![Top
   Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyaks1&show_icons=true&theme=tokyonight)](https://github.com/troyaks1/github-readme-stats)
-  ## My Skill Set
+
+  <h1> My Skill Set </h1>
   <table>
+    <td valign="top" align="center">
+      <div align="center">
+        <h2> Backend: Node.js, express.js, mongoDB, typescript, Nest.js </h2>
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"
+            height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"
+            height="50" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
+            height="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
+            height="50" /></a>
+        <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+      </div>
+    </td>
+    </tr>
     <tr>
       <td valign="top" align="center">
-        <h2> Frontend </h2>
+        <h2> Frontend: Next.js, React.js, TailwindCSS, Javascript </h2>
         <div align="center">
           <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
@@ -27,29 +48,9 @@
       </td>
     </tr>
     <tr>
-      <td valign="top" align="center">
-        <h2> Backend </h2>
-        <div align="center">
-          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"
-              height="50" /></a>
-          <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"
-              height="50" /></a>
-          <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
-              height="50" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
-              height="50" /></a>
-          <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
-        </div>
-      </td>
-    </tr>
     <tr>
       <td valign="top" align="center">
-        <h2> Related </h2>
+        <h2> Related: Github, Photoshop, Figma, SalesForce </h2>
         <div align="center">
           <a href="https://github.com/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
@@ -67,6 +68,7 @@
   </table>
 
 
+
   ## Connect with me
 
   <a href="https://www.linkedin.com/in/luangabriel/" target="_blank">
@@ -75,6 +77,15 @@
   </a>
 
 </div>
+
+<style>
+  .section {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+</style>
 
 
 <!--
