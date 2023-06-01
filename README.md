@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyaks1&show_icons=true&theme=tokyonight)](https://github.com/troyaks1/github-readme-stats)
 
-  ## My Skill Set
+## My Skill Set
   <div style="display: flex; flex-direction: column;">
     <tr>
       <td valign="top" width="33%">
