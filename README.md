@@ -14,10 +14,10 @@
       <div align="center">
         <h2> Backend: Node.js, express.js, mongoDB, typescript, Nest.js </h2>
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js"
+            src="https://nodejs.org/static/images/logos/nodejs-green.png" alt="Node.js"
             height="50" /></a>
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js"
+            src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
             height="50" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
