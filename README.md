@@ -1,4 +1,4 @@
-### Hi there, my name is Luan.
+<h3> Hi there, my name is Luan. </h3>
 
 ![Luan's github stats](https://github-readme-stats.vercel.app/api?username=troyaks1&show_icons=true&theme=tokyonight)
 
