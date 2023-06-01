@@ -2,7 +2,7 @@
 
 ![Luan's github stats](https://github-readme-stats.vercel.app/api?username=troyaks1)
 
-![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=troyaks&repo=dev.to)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyaks1)](https://github.com/troyaks1/github-readme-stats)
 
 
 <!--
