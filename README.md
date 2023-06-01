@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Luan's github stats](https://github-readme-stats.vercel.app/api?username=troyaks1)
+
 <!--
 **troyaks1/troyaks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
