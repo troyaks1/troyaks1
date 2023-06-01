@@ -4,10 +4,13 @@
   </h1>
 </div>
 
-
+<div align="center">
+  
 ![Luan's github stats](https://github-readme-stats.vercel.app/api?username=troyaks1&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troyaks1&show_icons=true&theme=tokyonight)](https://github.com/troyaks1/github-readme-stats)
+  
+</div>
 
 ## My Skill Set  
 <table>
