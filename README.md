@@ -54,8 +54,6 @@
               src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
           <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-          <a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px"
-              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>
         </div>
       </td>
     </tr>
