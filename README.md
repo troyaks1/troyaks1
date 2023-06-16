@@ -6,6 +6,7 @@
         Currently on my journey learning web development.<br>
         Also a Electrical Engineer with Master's in Project Management.<br>
     </i>
+  <br><br>
 
 
   <table>
