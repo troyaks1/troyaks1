@@ -14,7 +14,7 @@
   <table>
     <td valign="top" align="center">
       <div align="center">
-        <i> Backend: Node.js, express.js, mongoDB, Typescript, Nest.js </i> <br>
+        <i> Backend: Node.js, express.js, mongoDB, Typescript, Nest.js </i> <br><br>
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px"
             src="https://nodejs.org/static/images/logos/nodejs-green.png" alt="Node.js"
             height="50" /></a>
