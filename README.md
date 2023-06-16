@@ -1,4 +1,5 @@
 <div align="center">
+  <p align="center">
   <b>
     Hi there, my name is Luan!<br>
       </b>
@@ -7,6 +8,7 @@
         Also a Electrical Engineer with Master's in Project Management.<br>
     </i>
   <br><br>
+  </p>
 
 
   <table>
