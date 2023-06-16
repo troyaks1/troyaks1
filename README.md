@@ -1,6 +1,10 @@
 <div align="center">
   <h1>
-    Hi there, my name is Luan!
+    Hi there, my name is Luan!<br>
+        <i>
+        Currently on my journey learning web development.<br>
+        Also a Electrical Engineer with Master's in Project Management.<br>
+    </i>
   </h1>
 
   <table>
