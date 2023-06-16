@@ -29,7 +29,7 @@
             height="50" /></a>
         <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
-      </div>
+      </div> <br>
     </td>
     </tr>
     <tr>
