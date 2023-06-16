@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>
+  <h2>
     Hi there, my name is Luan!<br>
         <i>
         Currently on my journey learning web development.<br>
         Also a Electrical Engineer with Master's in Project Management.<br>
     </i>
-  </h1>
+  </h2>
 
   <table>
     <td valign="top" align="center">
