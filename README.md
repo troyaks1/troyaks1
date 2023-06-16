@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>
+  <b>
     Hi there, my name is Luan!<br>
-      </h2>
+      </b>
         <i>
         Currently on my journey learning web development.<br>
         Also a Electrical Engineer with Master's in Project Management.<br>
