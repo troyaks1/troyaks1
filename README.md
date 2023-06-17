@@ -30,6 +30,8 @@
       </div> <br>
     </td>
     </tr>
+  </table>
+      <table>
     <tr>
       <td valign="top" align="center">
         <i> Frontend: Next.js, React.js, TailwindCSS, Typescript </i><br><br>
@@ -47,6 +49,8 @@
         </div> <br>
       </td>
     </tr>
+      </table>
+      <table>
     <tr>
     <tr>
       <td valign="top" align="center">
