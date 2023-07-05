@@ -68,6 +68,20 @@
       </td>
     </tr>
   </table>
+  <table>
+    <tr>
+    <tr>
+      <td valign="top" align="center">
+        <i> Enterprise: Salesforce, Movidesk </i><br><br>
+        <div align="center">
+          <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
+              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
+          <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px"
+              src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+        </div> <br>
+      </td>
+    </tr>
+  </table>
 
   <a href="https://www.linkedin.com/in/luangabriel/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
