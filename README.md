@@ -78,8 +78,6 @@
               src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
           <a href="https://www.movidesk.com/" target="_blank"><img style="margin: 10px"
               src="https://registration.movidesk.com/Content/images/movidesk-form.svg" alt="Movidesk" height="50" /></a>
-          <a href="https://olist.com/" target="_blank"><img style="margin: 10px"
-              src="https://dnn65p9ixwrwn.cloudfront.net/uploads/2022/06/logo-olist-site.png" alt="Olist" height="50" /></a>
         </div> <br>
       </td>
     </tr>
