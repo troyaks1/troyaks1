@@ -9,39 +9,32 @@
     </i>
   <br><br>
   </p>
-<table>
+
+
+  <table>
     <td valign="top" align="center">
-        <div align="center">
-            <i> Backend: Typescript, Go, MongoDB, express.js </i> <br><br>
-            <a href="https://go.dev/" target="_blank"><img style="margin: 10px"
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Go"
-                height="50" /></a>
-            <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
-                src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
-                height="50" /></a>
-            <table style="transform: rotate(45deg); display: inline-block;">
-                <tr>
-                    <td>
-                        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"
-                            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
-                            height="25" /></a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
-                            src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
-                            height="25" /></a>
-                    </td>
-                </tr>
-            </table>
-        </div> <br>
+      <div align="center">
+        <i> Backend: Typescript, Go, MongoDB, express.js </i> <br><br>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
+            height="50" /></a>
+        <a href="https://go.dev/" target="_blank"><img style="margin: 10px"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="TypeScript"
+            height="50" /></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
+            height="50" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
+            src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
+            height="50" /></a>
+      </div> <br>
     </td>
-</table>
+    </tr>
+  </table>
       <table>
     <tr>
       <td valign="top" align="center">
-        <i> Frontend: Next.js, React.js, TailwindCSS </i><br><br>
+        <i> Frontend: Next.js, React.js, TailwindCSS, Typescript </i><br><br>
         <div align="center">
           <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
@@ -107,21 +100,4 @@
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
       alt=linkedin style="margin-bottom: 5px;" />
   </a>
-
 </div>
-
-
-<!--
-**troyaks1/troyaks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
