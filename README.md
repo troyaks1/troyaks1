@@ -14,7 +14,7 @@
         <div align="center">
             <i> Backend: </i> <br>
             <i> Typescript (with express), Go</i> <br><br>
-            <a href="https://www.typescriptlang.org/" target="_blank" style="display: inline-block; margin-right: 10px;"><img
+            <a href="https://www.typescriptlang.org/" target="_blank" style="display: inline-block; margin-right: 2px;"><img
                 src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
                 height="50" /></a>
             <a href="https://expressjs.com/" target="_blank" style="display: inline-block; margin-right: 10px; margin-left: 10px;"><img
