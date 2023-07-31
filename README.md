@@ -9,26 +9,25 @@
     </i>
   <br><br>
   </p>
-  <table>
+<table>
     <td valign="top" align="center">
-        <div align="center">
+        <div style="display: flex; justify-content: center;">
             <i> Backend: </i> <br>
             <i> Typescript (with express), Go</i> <br><br>
-            <a href="https://www.typescriptlang.org/" target="_blank"><img
+            <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 10px;"><img
                 src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
                 height="50" /></a>
-            <a href="https://expressjs.com/" target="_blank"><img style="margin-right: 10px; margin-left: -2px;"
+            <a href="https://expressjs.com/" target="_blank" style="margin-right: 10px;"><img
                 src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
                 height="30" /></a>
-            <a href="https://go.dev/" target="_blank"><img style="margin-right: 10px; margin-left: 10px"
+            <a href="https://go.dev/" target="_blank" style="margin-right: 10px;"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="TypeScript"
                 height="50" /></a>
-            <a href="https://www.mongodb.com/" target="_blank"><img style="margin-left: 10px"
+            <a href="https://www.mongodb.com/" target="_blank" style="margin-left: 10px;"><img
                 src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
                 height="50" /></a>
         </div> <br>
     </td>
-    </tr>
 </table>
       <table>
     <tr>
