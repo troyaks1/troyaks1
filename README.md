@@ -57,7 +57,7 @@
     <tr>
     <tr>
       <td valign="top" align="center">
-        <i> devOps: </i> 
+        <i> devOps: </i><br> 
         <i>Docker, Kubernetes, AWS, Linux </i><br><br>
         <div align="center">
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
@@ -76,7 +76,8 @@
     <tr>
     <tr>
       <td valign="top" align="center">
-        <i> Related: Git, Photoshop, Figma, GitLab </i><br><br>
+        <i> Related:</i><br>
+        <i>Git, Photoshop, Figma, GitLab </i><br><br>
         <div align="center">
           <a href="https://github.com/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
