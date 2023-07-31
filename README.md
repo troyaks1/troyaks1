@@ -17,7 +17,7 @@
             <a href="https://www.typescriptlang.org/" target="_blank"><img
                 src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
                 height="50" /></a>
-            <a href="https://expressjs.com/" target="_blank"><img style="margin-right: 10px; margin-left: 2px;"
+            <a href="https://expressjs.com/" target="_blank"><img style="margin-right: 10px; margin-left: -2px;"
                 src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
                 height="30" /></a>
             <a href="https://go.dev/" target="_blank"><img style="margin-right: 10px; margin-left: 10px"
