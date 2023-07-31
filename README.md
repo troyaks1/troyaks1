@@ -32,7 +32,8 @@
   <table>
     <tr>
       <td valign="top" align="center">
-        <i> Frontend: Next.js, React.js, TailwindCSS, Typescript </i><br><br>
+        <i> Frontend: </i> <br>
+        <i> Next.js, React.js, TailwindCSS </i> <br><br>
         <div align="center">
           <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
