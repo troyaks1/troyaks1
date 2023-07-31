@@ -1,13 +1,12 @@
 <div align="center">
   <p align="center">
-  <b>
-    Hi there, my name is Luan!<br>
-      </b>
-        <i>
-        Currently on my journey learning fullstack web development.<br>
-        Also a Electrical Engineer with Master's in Project Management.<br>
-    </i>
-  <br><br>
+    <b>
+      Hi there, my name is Luan!<br>
+    </b>
+    <i>
+      Currently learning fullstack web development.<br>
+      Also a Electrical Engineer with Master's in Project Management.<br>
+    </i><br><br>
   </p>
   <table>
     <td valign="top" align="center">
