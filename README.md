@@ -28,7 +28,18 @@
                 height="50" /></a>
         </div> <br>
     </td>
-</table>
+  </table>
+  <table>
+    <td valign="top" align="center">
+        <div align="center">
+            <i> Databases: </i> <br>
+            <i> MongoDB </i> <br><br>
+            <a href="https://www.mongodb.com/" target="_blank" style="display: inline-block; margin-left: 10px;"><img
+                src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
+                height="50" /></a>
+        </div> <br>
+    </td>
+  </table>
   <table>
     <tr>
       <td valign="top" align="center">
