@@ -15,13 +15,13 @@
     <td valign="top" align="center">
       <div align="center">
         <i> Backend: </i> <br>
-        <i> Typescript (with express.js), Go</i> <br>
+        <i> Typescript (with express.js), Go</i> <br><br>
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
             height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 6px"
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px"
             src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js"
-            height="50" /></a>
+            height="30" /></a>
         <a href="https://go.dev/" target="_blank"><img style="margin: 10px"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="TypeScript"
             height="50" /></a>
