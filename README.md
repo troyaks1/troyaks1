@@ -15,7 +15,7 @@
     <td valign="top" align="center">
       <div align="center">
         <i> Backend: </i> <br>
-        <i> Typescript (with express.js), Go</i> <br><br>
+        <i> Typescript (with express), Go</i> <br><br>
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 6px"
             src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript"
             height="50" /></a>
