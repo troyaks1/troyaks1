@@ -95,7 +95,8 @@
     <tr>
     <tr>
       <td valign="top" align="center">
-        <i> Enterprise: Salesforce, Movidesk </i><br><br>
+        <i> Enterprise:</i><br>
+        <i> Salesforce, Movidesk </i><br><br>
         <div align="center">
           <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
               src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
