@@ -11,13 +11,7 @@
     <td valign="top" align="center">
         <div align="center">
           <i> Backend: </i> <br>
-          <i> Node.js (Javascript/Typescript), Golang, Java, Python </i> <br><br>
-          <a href="https://www.javascript.com/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-          </a>
-          <a href="https://www.typescriptlang.org/" target="_blank">
-            <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-          </a>
+          <i> Golang, Java, Python & Node.js (Javascript/Typescript + Express.js) </i> <br><br>
           <a href="https://go.dev/" target="_blank">
             <img style="margin: 2px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="TypeScript" height="50" />
           </a>
@@ -26,6 +20,18 @@
           </a>
           <a href="https://www.python.org/" target="_blank">
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          </a>
+          <a href="https://nodejs.org/" target="_blank">
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          </a>  
+          <a href="https://www.javascript.com/" target="_blank">
+            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="20" />
+          </a>
+          <a href="https://www.typescriptlang.org/" target="_blank">
+            <img style="margin: 2px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" />
+          </a>
+          <a href="https://expressjs.com/" target="_blank">
+            <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" alt="Express.js" height="20" />
           </a>
         </div> <br>
     </td>
