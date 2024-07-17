@@ -74,12 +74,10 @@
     </td>
   </table>
   <table>
-    <tr>
-    <tr>
       <td valign="top" align="center">
-        <i> devOps: </i><br> 
-        <i>Docker, Kubernetes, AWS, Linux </i><br><br>
         <div align="center">
+          <i> devOps: </i><br> 
+          <i>Docker, Kubernetes, AWS, Linux </i><br><br>
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
           <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px"
@@ -90,15 +88,12 @@
              src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
         </div> <br>
       </td>
-    </tr>
   </table>
   <table>
-    <tr>
-    <tr>
       <td valign="top" align="center">
-        <i> Related:</i><br>
-        <i>Git, Photoshop, Figma, GitLab </i><br><br>
         <div align="center">
+          <i> Related:</i><br>
+          <i>Git, Photoshop, Figma, GitLab </i><br><br>
           <a href="https://github.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
           <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px"
@@ -107,17 +102,14 @@
              src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
           <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-        </div> <br>
+        </div><br>
       </td>
-    </tr>
   </table>
   <table>
-    <tr>
-    <tr>
       <td valign="top" align="center">
-        <i> Enterprise:</i><br>
-        <i> Salesforce, Movidesk </i><br><br>
         <div align="center">
+          <i> Enterprise:</i><br>
+          <i> Salesforce, Movidesk </i><br><br>
           <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
           <a href="https://www.movidesk.com/" target="_blank"><img style="margin: 10px"
@@ -126,9 +118,4 @@
       </td>
     </tr>
   </table>
-  
-  <a href="https://www.linkedin.com/in/luangabriel/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-      alt=linkedin style="margin-bottom: 5px;" />
-  </a>
 </div>
