@@ -4,8 +4,7 @@
       Hi there, my name is Luan!<br>
     </b>
     <i>
-      Currently learning fullstack web development.<br>
-      Also a Electrical Engineer with Master's in Project Management.<br>
+      Electrical Engineer with Master's in Project Management <br> and on course to finish Software Engineering and Data Science MBA.
     </i><br><br>
   </p>
   <table>
