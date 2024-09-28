@@ -11,11 +11,9 @@
    <td valign="top" align="center">
     <div align="center">
       <i> Backend: </i> <br>
-      <i> Golang, Java, Python & Node.js (Javascript/Typescript + Express.js) </i> <br><br>
+      <i> Golang, Python & Node.js (Javascript/Typescript + Express.js) </i> <br><br>
       <a href="https://go.dev/" target="_blank"><img style="margin: 10px" 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" height="50" /></a>
-      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px"
-        src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
       <a href="https://www.python.org/" target="_blank"><img style="margin: 10px"
         src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       <div align="center" style="display: flex; flex-direction: column; align-items: center;">
