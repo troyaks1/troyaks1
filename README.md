@@ -4,7 +4,7 @@
       Hi there, my name is Luan!<br>
     </b>
     <i>
-      Electrical Engineer with Master's in Project Management <br> and on course to finish Software Engineering and Data Science MBA.
+      Electrical Engineer with Master's in Project Management, <br> on course to finish Software Engineering and Data Science MBA.
     </i><br><br>
   </p>
   <table>
