@@ -70,7 +70,7 @@
   <table>
       <td valign="top" align="center">
         <div align="center">
-          <i> Enterprise Softwares:</i><br>
+          <i> Enterprise Management Software:</i><br>
           <i> Frappe Framework, ERPNext, Salesforce, Movidesk </i><br><br>
           <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
              src="https://avatars.githubusercontent.com/u/836974" alt="Frappe" height="50" /></a>
