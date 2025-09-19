@@ -9,7 +9,7 @@
   </p>
   <table width="100%" border="1">
     <tr>
-      <td valign="top" align="center" width="100%">
+      <td valign="top" align="center">
           <i> Backend: </i> <br>
           <i> Golang & Node.js (Typescript + Express.js) </i> <br><br>
           <a href="https://go.dev/" target="_blank"><img style="margin: 10px"
@@ -21,7 +21,7 @@
   </table>
   <table width="100%" border="1">
   <tr>
-    <td valign="top" align="center" width="100%">
+    <td valign="top" align="center">
           <i> Frontend: </i> <br>
           <i> Typescript, NextJS (React), TailwindCSS </i> <br><br>
           <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px"
@@ -35,7 +35,7 @@
   </table>
   <table width="100%" border="1">
   <tr>
-    <td valign="top" align="center" width="100%">
+    <td valign="top" align="center">
             <i> Databases: </i> <br>
             <i> MongoDB, MySQL, PostgreSQL </i> <br><br>
             <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px"
@@ -49,7 +49,7 @@
   </table>
   <table width="100%" border="1">
     <tr>
-      <td valign="top" align="center" width="100%">
+      <td valign="top" align="center">
           <i> DevOps: </i><br>
           <i> Docker, Dokploy </i><br><br>
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
@@ -61,7 +61,7 @@
   </table>
   <table width="100%" border="1">
     <tr>
-      <td valign="top" align="center" width="100%">
+      <td valign="top" align="center">
           <i> Enterprise Management Software: </i><br>
           <i> Frappe Framework, ERPNext, Salesforce, Movidesk </i><br><br>
           <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
