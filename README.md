@@ -60,8 +60,8 @@
   <table>
       <td valign="top" align="center">
         <div align="center">
-          <i> devOps: </i><br> 
-          <i>Docker </i><br><br>
+          <i> DevOps: </i><br> 
+          <i> Docker, Dokploy </i><br><br>
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
           <a href="https://dokploy.com/" target="_blank"><img style="margin: 10px"
@@ -72,7 +72,7 @@
   <table>
       <td valign="top" align="center">
         <div align="center">
-          <i> Enterprise Management Software:</i><br>
+          <i> Enterprise Management Software: </i><br>
           <i> Frappe Framework, ERPNext, Salesforce, Movidesk </i><br><br>
           <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
              src="https://avatars.githubusercontent.com/u/836974" alt="Frappe" height="50" /></a>
