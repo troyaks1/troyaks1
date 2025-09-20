@@ -55,6 +55,7 @@ Typescript, NextJS (React), TailwindCSS
 
 **Databases**
 MongoDB, MySQL, PostgreSQL
+
 <img 
   src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" 
   alt="MongoDB"
@@ -78,6 +79,7 @@ MongoDB, MySQL, PostgreSQL
 
 **DevOps**
 Docker, Dokploy
+
 <img 
   src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" 
   alt="Docker"
@@ -95,6 +97,7 @@ Docker, Dokploy
 
 **Enterprise Management Software**
 Frappe Framework, ERPNext, Salesforce, Movidesk
+
 <img 
   src="https://avatars.githubusercontent.com/u/836974" 
   alt="Frappe Framework"
