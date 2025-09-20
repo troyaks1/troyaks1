@@ -7,7 +7,7 @@
       Electrical Engineer with Master's in Project Management, <br> on course to finish Software Engineering and Data Science MBA.
     </i><br><br>
   </p>
-  <table width="100%">
+  <table width="100%" border="1">
     <tr>
       <td valign="top" align="center" width="100%">
           <i> Backend: </i> <br>
@@ -19,7 +19,7 @@
       </td>
     </tr>
   </table>
-  <table width="100%">
+  <table width="100%" border="1">
   <tr>
     <td valign="top" align="center" width="100%">
           <i> Frontend: </i> <br>
@@ -33,7 +33,7 @@
     </td>
   </tr>
   </table>
-  <table width="100%">
+  <table width="100%" border="1">
   <tr>
     <td valign="top" align="center" width="100%">
             <i> Databases: </i> <br>
@@ -47,7 +47,7 @@
     </td>
   </tr>
   </table>
-  <table width="100%">
+  <table width="100%" border="1">
     <tr>
       <td valign="top" align="center" width="100%">
           <i> DevOps: </i><br>
@@ -59,7 +59,7 @@
       </td>
     </tr>
   </table>
-  <table width="100%">
+  <table width="100%" border="1">
     <tr>
       <td valign="top" align="center" width="100%">
           <i> Enterprise Management Software: </i><br>
