@@ -70,14 +70,14 @@
   <table>
       <td valign="top" align="center">
         <div align="center">
-          <i> Enterprise:</i><br>
-          <i> Salesforce, Movidesk </i><br><br>
+          <i> Management Softwares:</i><br>
+          <i> Frappe Framework, Salesforce, Movidesk </i><br><br>
+          <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
+             src="https://avatars.githubusercontent.com/u/836974" alt="Frappe" height="50" /></a>
           <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
           <a href="https://www.movidesk.com/" target="_blank"><img style="margin: 10px"
              src="https://registration.movidesk.com/Content/images/movidesk-form.svg" alt="Movidesk" height="50" /></a>
-          <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
-             src="https://avatars.githubusercontent.com/u/836974" alt="Frappe" height="50" /></a>
         </div> <br>
       </td>
     </tr>
