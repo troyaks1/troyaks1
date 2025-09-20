@@ -18,7 +18,6 @@ Golang & Node.js (Typescript + Express.js)
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" 
     alt="Golang"
-    href="https://go.dev/"
     height="45" 
   />
 </a>
