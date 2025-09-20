@@ -77,7 +77,7 @@
           <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
           <a href="https://www.movidesk.com/" target="_blank"><img style="margin: 10px"
-             src="https://registration.movidesk.com/Content/images/movidesk-form.svg" alt="Movidesk" height="50" /></a>
+             src="https://registration.movidesk.com/Content/images/movidesk-form.svg" alt="Movidesk" height="45" /></a>
         </div> <br>
       </td>
     </tr>
