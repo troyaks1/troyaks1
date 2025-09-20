@@ -64,6 +64,8 @@
           <i>Docker </i><br><br>
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+          <a href="https://dokploy.com/" target="_blank"><img style="margin: 10px"
+             src="https://avatars.githubusercontent.com/u/156882017" alt="Dokploy" height="50" /></a>
         </div> <br>
       </td>
   </table>
