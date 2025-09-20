@@ -10,7 +10,8 @@
 
 ---
 
-**Backend**  
+**Backend**
+
 Golang & Node.js (Typescript + Express.js)  
 
 <img 
@@ -28,7 +29,8 @@ Golang & Node.js (Typescript + Express.js)
 
 ---
 
-**Frontend**  
+**Frontend**
+
 Typescript, NextJS (React), TailwindCSS  
 
 <img 
@@ -53,6 +55,7 @@ Typescript, NextJS (React), TailwindCSS
 ---
 
 **Databases**
+
 MongoDB, MySQL, PostgreSQL
 
 <img 
@@ -77,6 +80,7 @@ MongoDB, MySQL, PostgreSQL
 ---
 
 **DevOps**
+
 Docker, Dokploy
 
 <img 
@@ -95,6 +99,7 @@ Docker, Dokploy
 ---
 
 **Enterprise Management Software**
+
 Frappe Framework, ERPNext, Salesforce, Movidesk
 
 <img 
