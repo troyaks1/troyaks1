@@ -7,7 +7,7 @@
       Electrical Engineer with Master's in Project Management, <br> on course to finish Software Engineering and Data Science MBA.
     </i><br><br>
   </p>
-  <table>
+  <table width="100%">
    <td valign="top" align="center">
     <div align="center">
       <i> Backend: </i> <br>
