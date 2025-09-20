@@ -70,10 +70,12 @@
   <table>
       <td valign="top" align="center">
         <div align="center">
-          <i> Management Softwares:</i><br>
-          <i> Frappe Framework, Salesforce, Movidesk </i><br><br>
+          <i> Enterprise Softwares:</i><br>
+          <i> Frappe Framework, ERPNext, Salesforce, Movidesk </i><br><br>
           <a href="https://frappe.io/framework" target="_blank"><img style="margin: 10px"
              src="https://avatars.githubusercontent.com/u/836974" alt="Frappe" height="50" /></a>
+          <a href="https://frappe.io/erpnext" target="_blank"><img style="margin: 10px"
+             src="https://github.com/frappe/erpnext/raw/develop/erpnext/public/images/v16/erpnext.svg" alt="ERPNext" height="50" /></a>
           <a href="http://www.salesforce.com/" target="_blank"><img style="margin: 10px"
              src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="SalesForce" height="50" /></a>
           <a href="https://www.movidesk.com/" target="_blank"><img style="margin: 10px"
