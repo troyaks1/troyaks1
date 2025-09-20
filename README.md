@@ -5,7 +5,6 @@
     Electrical Engineer with Master's in Project Management, <br> on course to finish Software Engineering and Data Science MBA.
   </i>
 </p>
-<br><br>
 
 <div align="center">
 
