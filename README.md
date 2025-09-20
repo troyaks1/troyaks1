@@ -14,44 +14,55 @@
 
 Golang & Node.js (Typescript + Express.js)  
 
-<a href="https://go.dev/" target="_blank">
+<a href="https://go.dev/">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" 
     alt="Golang"
     height="45" 
   />
 </a>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
-  alt="TypeScript"
-  href="https://www.typescriptlang.org/"
-  height="50" 
-/>
+<a href="https://www.typescriptlang.org/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
+    alt="TypeScript"
+    height="50" 
+  />
+</a>
 
 ---
 
 **Frontend**
 
-Typescript, NextJS (React), TailwindCSS  
+Typescript, React, NextJS, TailwindCSS  
 
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
-  alt="TypeScript"
-  href="https://www.typescriptlang.org/"
-  height="50" 
-/>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/nextjs.png" 
-  alt="NextJS"
-  href="https://nextjs.org/"
-  height="50" 
-/>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" 
-  alt="Tailwind CSS"
-  href="https://www.tailwindcss.com/"
-  height="50" 
-/>
+<a href="https://www.typescriptlang.org/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" 
+    alt="TypeScript"
+    height="50" 
+  />
+</a>
+<a href="https://react.dev/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" 
+    alt="React"
+    height="50"
+  />
+</a>
+<a href="https://nextjs.org/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/nextjs.png" 
+    alt="NextJS"
+    height="50" 
+  />
+</a>
+<a href="https://tailwindcss.com/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" 
+    alt="Tailwind CSS"
+    height="50" 
+  />
+</a>
 
 ---
 
@@ -59,24 +70,27 @@ Typescript, NextJS (React), TailwindCSS
 
 MongoDB, MySQL, PostgreSQL
 
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" 
-  alt="MongoDB"
-  href="https://www.mongodb.com/"
-  height="60" 
-/>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" 
-  alt="MySQL"
-  href="https://www.mysql.com/"
-  height="60" 
-/>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" 
-  alt="PostgreSQL"
-  href="https://www.postgresql.org/"
-  height="60" 
-/>
+<a href="https://www.mongodb.com/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" 
+    alt="MongoDB"
+    height="60" 
+  />
+</a>
+<a href="https://www.mysql.com/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" 
+    alt="MySQL"
+    height="60" 
+  />
+</a>
+<a href="https://www.postgresql.org/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" 
+    alt="PostgreSQL"
+    height="60" 
+  />
+</a>
 
 ---
 
@@ -84,18 +98,20 @@ MongoDB, MySQL, PostgreSQL
 
 Docker, Dokploy
 
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" 
-  alt="Docker"
-  href="https://www.docker.com/"
-  height="50" 
-/>
-<img 
-  src="https://avatars.githubusercontent.com/u/156882017" 
-  alt="Dokploy"
-  href="https://dokploy.com/"
-  height="50" 
-/>
+<a href="https://www.docker.com/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" 
+    alt="Docker"
+    height="50" 
+  />
+</a>
+<a href="https://dokploy.com/">
+  <img 
+    src="https://avatars.githubusercontent.com/u/156882017" 
+    alt="Dokploy"
+    height="50" 
+  />
+</a>
 
 ---
 
@@ -103,30 +119,34 @@ Docker, Dokploy
 
 Frappe Framework, ERPNext, Salesforce, Movidesk
 
-<img 
-  src="https://avatars.githubusercontent.com/u/836974" 
-  alt="Frappe Framework"
-  href="https://frappeframework.com/"
-  height="50" 
-/>
-<img 
-  src="https://github.com/frappe/erpnext/raw/develop/erpnext/public/images/v16/erpnext.svg" 
-  alt="ERPNext"
-  href="https://erpnext.com/"
-  height="50" 
-/>
-<img 
-  src="https://profilinator.rishav.dev/skills-assets/salesforce.png" 
-  alt="Salesforce"
-  href="https://www.salesforce.com/"
-  height="50" 
-/>
-<img 
-  src="https://registration.movidesk.com/Content/images/movidesk-form.svg" 
-  alt="Movidesk"
-  href="https://www.movidesk.com/"
-  height="40" 
-/>
+<a href="https://frappeframework.com/">
+  <img 
+    src="https://avatars.githubusercontent.com/u/836974" 
+    alt="Frappe Framework"
+    height="50" 
+  />
+</a>
+<a href="https://erpnext.com/">
+  <img 
+    src="https://github.com/frappe/erpnext/raw/develop/erpnext/public/images/v16/erpnext.svg" 
+    alt="ERPNext"
+    height="50" 
+  />
+</a>
+<a href="https://www.salesforce.com/">
+  <img 
+    src="https://profilinator.rishav.dev/skills-assets/salesforce.png" 
+    alt="Salesforce"
+    height="50" 
+  />
+</a>
+<a href="https://www.movidesk.com/">
+  <img 
+    src="https://registration.movidesk.com/Content/images/movidesk-form.svg" 
+    alt="Movidesk"
+    height="40" 
+  />
+</a>
 
 ---
 </div>
