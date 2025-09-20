@@ -9,6 +9,30 @@
 
 ---
 
+<div align="center">
+
+---
+
+**Backend**  
+Golang & Node.js (Typescript + Express.js)  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="45" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+
+---
+
+**Frontend**  
+Typescript, NextJS (React), TailwindCSS  
+
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" />
+
+---
+
+</div>
+
+
 <table width="100%" border="1">
   <tr>
     <td valign="top" align="center">
