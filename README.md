@@ -12,10 +12,10 @@
     <div align="center">
       <i> Backend: </i> <br>
       <i> Golang & Node.js (Typescript + Express.js) </i> <br><br>
-      <a href="https://go.dev/" target="_blank"><img style="margin: 10px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" height="50" /></a>
       <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 2px" 
         src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <a href="https://go.dev/" target="_blank"><img style="margin: 10px" 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="Golang" height="45" /></a>
     </div><br>
    </td>
   </table>
