@@ -2,6 +2,6 @@
   <b>Hi there, my name is Luan!</b>
   <br>
   <i>
-    Electrical Engineer with Master's in Project Management, <br> on course to finish Software Engineering and Data Science MBA.
+    Electrical Engineer with MBA in Project Management and Software Engineering.
   </i>
 </p>
